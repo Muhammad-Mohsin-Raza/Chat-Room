@@ -1,4 +1,5 @@
 # Chat-Room
+This is semester project for Computer Networks<br>
 We basically want to implement a concept that is used in group of WhatsApp app. So, there will be one admin(client) that adds or remove the multiple users (clients) in group. They will only send text messages. The client(user) who is not in group try to connect to server will not be allowed to enter the group.
 Like in WhatsApp group if someone message in group its name with its message will show on all user’s device. In our application we will also implement it if someone message all users will receive it and see who sends it?
 
